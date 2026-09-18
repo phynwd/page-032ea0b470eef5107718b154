@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "321fd299c15970e08e00dfd7",
+  "owner": "phynwd",
+  "repo": "page-032ea0b470eef5107718b154",
+  "title": "Catnet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "032ea0b470eef5107718b154",
+      "a": "Catnet",
+      "b": "clash verge下载",
+      "entity": "Catnet",
+      "brand": "Catnet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7fdc92aeaefe79bed0da2f5a9814bca9155d866c76760c2475a734cc9d9fb6c2",
+      "content": {
+        "primary_entity": "Catnet",
+        "keyword1": "Catnet",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适用的客户端版本，参考对应安装指引完成订阅导入。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并在到设备上完成订阅配置，即可开始使用 Catnet 的加速服务。",
+          "AI_CLOSING_TITLE": "选套餐，开始加速",
+          "AI_DESCRIPTION": "，聚焦设备订阅与套餐搭配的海外加速器。基础版每月 15 元提供 100GB 流量与 3 台设备；旗舰版每月 35 元升级至 300GB 流量、5 台设备并加入 IPLC 专线游戏加速；团队版每月 85 元覆盖 1000GB 流量与 20 台设备。用户可按设备数量、流量需求和预算挑选合适档位，再参考客户端说明完成订阅配置。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备规模和订阅形式三个方面介绍如何按需选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量挑选。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 到 1000GB 三档月流量，对应个人到团队的使用强度。",
+          "AI_FEATURE_TITLE_2": "按流量需求匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更省，适合长期稳定使用的用户。",
+          "AI_FEATURE_TITLE_3": "按月或按年订阅",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到在设备上使用 Catnet 的过程。",
+          "AI_GUIDE_TITLE": "配置订阅三步走",
+          "AI_HERO_INTRO": "Catnet 提供按设备数量与流量划分的海外加速套餐，配合客户端订阅配置，覆盖日常浏览、流媒体与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 到 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版加入 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "月付年付两种订阅周期",
+          "AI_PLANS_INTRO": "对比流量、设备数量与专线权益，基础版 100GB/3 台适合轻度使用，旗舰版 300GB/5 台兼顾流媒体与游戏，团队版 1000GB/20 台面向多人协作。年付分别为 150 元、350 元和 850 元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量、每月流量与是否需要游戏专线，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "确认服务套餐",
+          "AI_STEP_TEXT_2": "核对设备系统版本与网络环境，选择对应的客户端类型，留意同时在线设备上限。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅地址，选择节点后测试连通性，确认加速生效。",
+          "AI_STEP_TITLE_3": "配置订阅节点",
+          "AI_VISUAL_TITLE": "Catnet 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度浏览与视频，旗舰版适合需要流媒体解锁和游戏加速的用户，团队版适合多设备或企业办公场景。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，可根据日常使用设备数量选择。",
+          "AI_FAQ_ANSWER_3": "各套餐均提供月付与年付两种周期，年付价格相当于十个月费用，长期使用更划算。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅链接即可，不同设备对应不同客户端，具体导入方式可参考客户端内说明文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 7x24 优先工单支持，团队版配备专属客户经理，使用中遇到问题可联系支持渠道。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Catnet 有哪些套餐可以选择？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在设备上导入订阅？",
+          "AI_FAQ_QUESTION_5": "遇到连接问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2081013e34b0a8f95f7584abad7636e67508bdc203dcc2b6746c48e33537fc8f",
+    "sitemap.xml": "40002802798c807d0af3a43862ee6b0494746df91138fccb28b586213cf1b65d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2abf5ed5332de8caa799a7d3aaddd5e936034aca38df20ed957908b59ccfb3e0"
+}
